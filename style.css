@@ -20,7 +20,7 @@ body {
     font-size: 1.8rem;
 }
 #particles-js {
-    background: rgb(143, 122, 247);
+    background: rgb(15, 59, 146);
     height: 100%;
     width: 100%;
     position: absolute;
@@ -33,7 +33,7 @@ body {
 .searchBtn{
     padding: 10px 0;
     width: 25%;
-    background-color: #856eeb;
+    background-color: #250d8e;
     border: none;
     outline: none;
     color: #ffffff;
